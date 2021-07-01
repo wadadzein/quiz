@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container{
+background: rgb(181, 223, 224);
+}
+.question{
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
